@@ -30,9 +30,9 @@ ssh_pub_key = File.readlines("/home/alex/.ssh/id_rsa.pub").first.strip
 Если в сводке нет ошибок, вы можете перейти к http://192.168.11.113 чтобы проверить, работает ли ваш балансировщик
 
 Это должно выглядеть примерно так:
-![](WEB1.jpg)
+![](https://github.com/AlexanderPodprugin/ansible2/blob/main/web1.jpg)
 
 Попробуйте обновить страницу, чтобы увидеть, меняются ли цифры на странице. Если они не изменятся, попробуйте также использовать CTRL + F5 для обновления кэша
 
 Другая страница:
-![](WEB2.jpg)
+![](https://github.com/AlexanderPodprugin/ansible2/blob/main/web2.jpg)
