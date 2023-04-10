@@ -26,7 +26,8 @@ ssh_pub_key = File.readlines("/home/alex/.ssh/id_rsa.pub").first.strip
 Если в сводке нет ошибок, вы можете перейти к http://192.168.11.113 чтобы проверить, работает ли ваш балансировщик
 
 Это должно выглядеть примерно так:
-![](![изображение](https://user-images.githubusercontent.com/114150558/230990404-189a5218-624a-4fbf-9e09-4fcb9a9bcbde.png))
+![![изображение](https://user-images.githubusercontent.com/114150558/230990781-ef6abd73-813d-4b79-a370-2d61131554ed.png)
+](![изображение](https://user-images.githubusercontent.com/114150558/230990404-189a5218-624a-4fbf-9e09-4fcb9a9bcbde.png))
 
 Попробуйте обновить страницу, чтобы увидеть, меняются ли цифры на странице. Если они не изменятся, попробуйте также использовать CTRL + F5 для обновления кэша
 
