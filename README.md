@@ -32,4 +32,4 @@ ssh_pub_key = File.readlines("/home/alex/.ssh/id_rsa.pub").first.strip
 Попробуйте обновить страницу, чтобы увидеть, меняются ли цифры на странице. Если они не изменятся, попробуйте также использовать CTRL + F5 для обновления кэша
 
 И другая страница:
-![]()
+![](https://github.com/ismailtez/ansible2/blob/main/web2.jpg)
