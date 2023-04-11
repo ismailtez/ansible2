@@ -9,7 +9,7 @@
 Перед установкой нам нужен пользовательский образ Redos732.
 При этом надо обязательно отредактировать VagrantFile, указав путь к вашей ssh-папке
 
-ssh_pub_key = File.readlines("/home/alex/.ssh/id_rsa.pub").first.strip
+ssh_pub_key = File.readlines("/home/ismail/.ssh/id_rsa.pub").first.strip
 
 Установка
 ---
